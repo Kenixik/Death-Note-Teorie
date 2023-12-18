@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="stronica.css" type="text/css" />
+    <title>Death Note</title>
+	<link rel="shortcut icon" href="notepad.png" />
+</head>
+<body>
+
+<header>
+<section id="pustya"></section>
+<section id="logo">
+	<img src="scierwo.png" />
+</section>
+<section id="pustyb"></section>
+
+<nav>
+		<ul class="menu">
+			<li><a href="kiraryuuku.html" target="_blank"><h1>Kira & Ryuuku</h1></a></li>
+			<li><a href="raitol.html" target="_blank"><h1>Raito & L</h1></a></li>
+			<li><a href="teorie.html" target="_blank"><h1>Teorie</h1></a></li>
+			<li><a href="https://desu-online.pl/anime/death-note/" target="_blank"><h1>Obejrz sam</h1></a></li>
+		</ul>
+</nav>
+</header>
+
+<aside>
+	<section id="kira">
+		<img src="guwienko.png" />
+	</section>
+</aside>
+
+<main>
+	<article>
+		<section id="kiratekst">
+			<h3>Yagami Raito, uczeń liceum w Japonii znalazł notatnik pt. "Death Note".
+			<p>Po przeczytaniu zawartości, dowiedział się o zasadach jego użyciana innym człowieku.</p>
+			<p>Raito twierdzi, że tylko on może użyć mocy notesu,</p>
+			<p>aby usunąć złych ludzi ze świata i stworzyć "własną utopię"</p>
+			<p>w której, to on będzie "królem nowego świata"<p>
+			<p>i to on będzie decydował, kto zasługuje na życie.</p></h3>
+		</section>
+		<div id="pusty"></div>
+		<div id="pustyc"></div>
+		<hr>
+		<div id="pusty"></div>
+			<section id="ryuukutekst">
+			<h3>Ryuuku, Shinigami ze świata Shinigami upuścił notes do świata ludzi.
+			<p>Zostawił go tam specjalnie, ponieważ "był znudzony", bo jedyne</p>
+			<p>co robią shinigami, to jedzą jabłka i grają.</p>
+			<p>Notes trafił do właściciela, który przeszedł jego najśmielsze oczekiwania</p>
+			<p>i jest w stanie dostarczyć mu wystarczająco rozrywki</p>
+			<p>tą osobą jest właśnie, Yagami Raito.</p></h3>
+			</section>
+		<section id="ryuuku">
+		<img src="ryuuku.png" />
+		</section>
+</main>
+	<div id="pustyd"></div>
+	<hr>
+	<ul id="lista">
+        <li>Death note</li>
+            <ul>
+                <li>Główni bohaterzy:</li>
+                    <ol>
+                        <li>Ryuuku</li>
+                        <li>L</li>
+                        <li>Yagami Raito</li>
+                        <ul>
+                        <li>Poboczni bohaterzy:</li>
+                        <ol>
+                        <li>Misa Amane</li>
+                        <li>Soichiro Yagami</li>
+                        <li>Rem</li>
+                        <li>Near</li>
+                        <li>Mello</li>
+                        <ol>
+                        </ul>
+                    </ol>
+            </ul>
+    </ul>
+	<section id="zdjecie">
+		<img src="cross.gif" />
+	</section>
+<table id="srodek">
+                <thead class="black">
+                <tr>
+                <th>Oceny osób</th><th>Raito</th><th>L</th><th>Ryuuku</th><th>Misa</th><th>Near</th><th>Mello</th>
+                </tr>
+                </thead>
+				<tbody>
+                <tr><th class="black">Ja</th><th>10</th><th>10</th><th>10</th><th>10</th><th>10</th><th class="cyan">10</th></tr>
+                <tr><th class="black">Paweł</th><th>9</th><th>9</th><th>8</th><th>9</th><th>10</th><th class="cyan">9</th></tr>
+                <tr><th class="black">Wojtek</th><th>9</th><th>8</th><th>7</th><th>6</th><th>8</th><th class="cyan">7</th></tr>
+                <tr><th class="black">Kamil</th><th>9</th><th>8</th><th>8</th><th>7</th><th>8</th><th class="cyan">10</th></tr>
+                <tr><th class="black">Piotrek</th><th>7</th><th>5</th><th>8</th><th>5</th><th>7</th><th class="cyan">9</th></tr>
+                <tr><th class="black">Janek</th><th>10</th><th>9</th><th>8</th><th>6</th><th>8</th><th class="cyan">8</th></tr>
+                <tr><th class="black">Kacper</th><th>8</th><th>7</th><th>7</th><th>4</th><th>8</th><th class="cyan">9</th></tr>
+            </tbody>
+ </table>
+<footer>
+	<section id="stopka">
+	<p>&copy; DEATH NOTE &copy;</p>
+	</section>
+</footer>
+</body>
+</html>
